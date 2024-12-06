@@ -1,0 +1,12 @@
+/bridges
+/documentation
+/metadrive
+/metadrive_simulator.egg-info
+/venv
+format.sh
+LICENSE.txt
+main.py
+MANIFEST.in
+README.md
+setup.py
+testingTopDownRenderer.py
